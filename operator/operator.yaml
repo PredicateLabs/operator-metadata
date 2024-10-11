@@ -3,9 +3,9 @@ operator:
   earnings_receiver_address: 0x6bd4b34e9ed84c8178e995628bf1b14caf47a529
   delegation_approver_address: "0x0000000000000000000000000000000000000000"
   staker_opt_out_window_blocks: 0
-  metadata_url: ""
+  metadata_url: "https://predicate-operator-metadata.s3.us-east-2.amazonaws.com/metadata.json"
 el_delegation_manager_address: 0x39053D51B77DC0d36036Fc1fCc8Cb819df8Ef37A
 eth_rpc_url: https://eth-mainnet.g.alchemy.com/v2/dJtz-cFugr3oe_n-RSZfQ2IXYHADu74K
-private_key_store_path: /Users/jessesawa/.eigenlayer/operator_keys/mainnet-operator.ecdsa.key.json
+private_key_store_path: Users/jessesawa/.eigenlayer/operator_keys/mainnet-operator.ecdsa.key.jso
 signer_type: local_keystore
 chain_id: 1
